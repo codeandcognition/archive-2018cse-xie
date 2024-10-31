@@ -4,7 +4,7 @@ Archive for Xie et al. CSE 2019. Learning materials (instruction, assessment, pr
 Primary contact: Benjamin Xie. The Information School. University of Washington, Seattle. bxie@uw.edu
 
 ## Reference
-Xie, Benjamin, Dastyni Loksa, Greg L. Nelson, Matthew J. Davidson, Dongsheng Dong, Harrison Kwik, Alex Hui Tan, Leanne Hwa, Min Li, and Andrew J. Ko. 2019. “A Theory of Instruction for Introductory Programming Skills.” Computer Science Education, January, 1–49. https://doi.org/10.1080/08993408.2019.1565235
+Xie, Benjamin, Dastyni Loksa, Greg L. Nelson, Matthew J. Davidson, Dongsheng Dong, Harrison Kwik, Alex Hui Tan, Leanne Hwa, Min Li, and Amy J. Ko. 2019. “A Theory of Instruction for Introductory Programming Skills.” Computer Science Education, January, 1–49. https://doi.org/10.1080/08993408.2019.1565235
 
 ## Contents
 * assessment
